@@ -1,2 +1,2 @@
 # psychGo
-Psych Care on the Go Site / Vue.js
+Psychological Care on the Go Site / Vue.js
